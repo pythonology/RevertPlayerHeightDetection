@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "RevertPlayerHeightDetection",
+  "name": "RevertPlayerHeightDetection",
+  "author": "Python",
+  "version": "1.0.0",
+  "description": "Reverts the changes made to player height detection in 1.13.2.",
+  "gameVersion": "1.13.2",
+  "dependsOn": {
+    "BSIPA": "^4.0.0"
+  },
+  "features": []
+}
