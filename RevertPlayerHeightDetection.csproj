@@ -98,7 +98,6 @@
   <ItemGroup>
     <Compile Include="Patches\PlayerHeightDetectorPatch.cs" />
     <Compile Include="Plugin.cs" />
-    <Compile Include="Configuration\PluginConfiguration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
